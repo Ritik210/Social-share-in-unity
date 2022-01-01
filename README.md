@@ -1,2 +1,2 @@
 # Social-share-in-unity
-Share scrrenshot socially
+Share screenshot socially
